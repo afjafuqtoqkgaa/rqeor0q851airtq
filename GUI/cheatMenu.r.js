@@ -34,7 +34,7 @@ let cheatMenuCode = `
 
 		<div id="infoWindow">
 			<p>Private Hack by Oversize</p>
-			<p>Private</p>
+			<p>Используй во благо</p>
 			<p><a href="https://vk.com/id541273525" target="_blank" rel="noopener noreferrer">King Creator</a></p>
 		</div>
 
